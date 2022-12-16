@@ -42,14 +42,7 @@ a:focus {
 	color: #252445;
 }
 
-.demo-2 a {
-	color: #333;
-}
 
-.demo-2 a:hover,
-.demo-2 a:focus {
-	color: #444C75;
-}
 
 
 /* Header */
@@ -131,7 +124,7 @@ a:focus {
 	font-variant: normal;
 	font-family: 'codropsicons';
 	line-height: 1;
-	speak: none;
+	
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -190,13 +183,5 @@ a:focus {
 		display: block;
 		font-size: 0.75em;
 	}
-	.codrops-links {
-		display: block;
-		margin: 0 0 1em;
-	}
-	.codrops-demos {
-		width: 100%;
-		font-size: 120%;
-		margin: 1em 0 0 0;
-	}
+
 }
